@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Infrastructure](README.md)
+* [About](README.md)
 
 ## directory
 
