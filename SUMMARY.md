@@ -2,7 +2,6 @@
 
 * [About](README.md)
 
-## WebSec
+## 1st-Websec
 
-* [基础工具篇](dir/websec/ji-chu-gong-ju-pian.md)
-
+* [基础工具](1st-websec/ji-chu-gong-ju.md)
