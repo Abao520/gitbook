@@ -134,3 +134,31 @@ description: 虚拟机相关
 
 ![image-20220724012626861](images/image-20220724012626861.png)
 
+
+
+安装VMtools出现下面的情况需要安装补丁：
+
+![image-20220724020352724](images/image-20220724020352724.png)
+
+
+
+```
+https://www.catalog.update.microsoft.com/search.aspx?q=kb4474419
+```
+
+
+
+下载到本地，由于无法使用VMtools。可以直接在虚拟机访问物理机的SMB服务：
+
+![image-20220724021022794](images/image-20220724021022794.png)
+
+
+
+然后安装VMtools就可以全屏：
+
+![image-20220724021508621](images/image-20220724021508621.png)
+
+
+
+
+
