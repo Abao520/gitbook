@@ -4,4 +4,4 @@ description: infrastructure
 
 # Infrastructure
 
-infrastructure
+  基础知识的介绍。
