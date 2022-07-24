@@ -6,6 +6,7 @@
 
 * [Vmware安装和Windows/Linux虚拟机](1st-websec/vmware-an-zhuang-he-windowslinux-xu-ni-ji.md)
 * [基础工具](1st-websec/ji-chu-gong-ju.md)
+* [WEB目录扫描](1st-websec/web-mu-lu-sao-miao.md)
 
 ## TIPS
 
