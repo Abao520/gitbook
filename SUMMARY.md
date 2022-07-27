@@ -11,3 +11,7 @@
 ## TIPS
 
 * [我的一些小技巧](tips/wo-de-yi-xie-xiao-ji-qiao.md)
+
+## 2ND-LAN
+
+* [内网IP信息获取](2nd-lan/nei-wang-ip-xin-xi-huo-qu.md)
